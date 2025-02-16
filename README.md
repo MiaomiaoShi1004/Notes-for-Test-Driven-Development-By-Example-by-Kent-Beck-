@@ -8,4 +8,5 @@
 Part I: The Money Example
 
 [Chapter 4 Privacy](https://abrupt-socks-76e.notion.site/Chapter-4-Privacy-19cb378fe823800280fef6e246d16ec3?pvs=4)
+
 [Chapter 5. Franc-ly Speaking](https://abrupt-socks-76e.notion.site/Chapter-5-Franc-ly-Speaking-19cb378fe82380b69fbcdd37c2a08261?pvs=4)
